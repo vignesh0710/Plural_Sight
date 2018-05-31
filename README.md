@@ -5,11 +5,11 @@ Solutions for Data Challenge
 Instructions to run the code:
 
 1. Download the folder from Github and unzip which will create Plural_sight-master
-2. Open this folder -> Unzip the FOLDER data_files_ml_engineer.zip and FILE plural_sight.db.zip. The following image will be the folder structure after these s2 steps
+2. Open this folder -> Unzip the FOLDER data_files_ml_engineer.zip and FILE plural_sight.db.zip. The following image will be the folder structure for Plural_sight-master after these 2 steps
 
 <img width="983" alt="screen shot 2018-05-31 at 6 03 00 pm" src="https://user-images.githubusercontent.com/19801399/40810786-e47888d8-64fc-11e8-949b-ffbe7196c40a.png">
 
-3. Transfer the file to the plural_sight.db to the unzipped data_files_ml_engineer folder.he following image will be the folder structure after these s2 steps
+3. Transfer the file to the plural_sight.db to the unzipped data_files_ml_engineer folder.he following image will be the folder structure for data_files_ml_engineer after these 3 steps
    
 <img width="1025" alt="screen shot 2018-05-31 at 6 07 11 pm" src="https://user-images.githubusercontent.com/19801399/40810979-7b49954a-64fd-11e8-9a42-21fb5f9252fc.png">
 
@@ -19,19 +19,28 @@ First:
 
 Note: Please use this method to test the results
 
-1. Run the file webapp.py in a editor, copy the URL and run it in a browser
-2. The browser window will be like the following image.
+1. Run the file webapp.py in a editor with the working directory location at "path//data_files_ml_engineer",ex:
+[wdir='/Users/vigneshsureshbabu/Downloads/pluralsight_ml_exercise/data_files_ml_engineer']
+
+2. After running the file copy the URL from op console and run it in a browser
+
+3. The browser window will be like the following image.
 <img width="595" alt="screen shot 2018-05-31 at 6 10 46 pm" src="https://user-images.githubusercontent.com/19801399/40811123-0d82d0a2-64fe-11e8-99e9-6bff7c22d0af.png">
 
-3. Enter the user_handle and click 'Submit', in a time of 5 - 10 secs, It will display the summmary of similar users.
+4. Enter the user_handle and click 'Submit', in a time of 5 - 10 secs, It will display the summmary of similar users.
 
 <img width="1367" alt="screen shot 2018-05-31 at 6 12 51 pm" src="https://user-images.githubusercontent.com/19801399/40811189-47dbda3c-64fe-11e8-9f28-dde711cf8cfe.png">
 
-4. Please scroll down to check the similar users with the 3 diffrent feature configurations mentioned.
+<img width="1324" alt="screen shot 2018-05-31 at 6 18 46 pm" src="https://user-images.githubusercontent.com/19801399/40811417-1f51fc30-64ff-11e8-8067-714e58cb791e.png">
+
+<img width="1361" alt="screen shot 2018-05-31 at 6 18 57 pm" src="https://user-images.githubusercontent.com/19801399/40811428-27e5f9fa-64ff-11e8-881a-587c5471fa30.png">
+
+
+5. Please scroll down to check the similar users with the 3 diffrent feature configurations mentioned.
 
 Second:
 
-Note: Please use this in and only if the full pipeline has to be tested, from accessing the csv to displaying the results.
+Note: Please use this in if and only if the full pipeline has to be tested, from accessing the csv to displaying the results.
 Method 1 mentioned above is preferred
 
 1. Run the file main.py in a editor, to 
@@ -40,11 +49,8 @@ Method 1 mentioned above is preferred
 	c. Creates the feature matrices as mentioned in the approaches section of the Solutions pdf
 	d. Stores the feature matrices into /same_folder/dense_matrix.db
 	e. Pickles the user_mapping to find the similar users
-2. Then follow steps 1 - 4 mentioned in the 'First' way above to run the code
+2. Then follow steps 1 - 5 mentioned in the 'First' way above to run the code
 	
-
-
-
 
 
 
