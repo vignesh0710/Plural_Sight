@@ -15,7 +15,7 @@ Instructions to run the code:
 
 4. There are 2 ways to run the API
 
-First:
+First Method:
 
 Note: Please use this method to test the results
 
@@ -38,7 +38,7 @@ Note: Please use this method to test the results
 
 5. Please scroll down to check the similar users with the 3 diffrent feature configurations mentioned.
 
-Second:
+Second Method:
 
 Note: Please use this in if and only if the full pipeline has to be tested, from accessing the csv to displaying the results.
 Method 1 mentioned above is preferred
@@ -66,9 +66,9 @@ Files Description in Data_Files_ML_Engineer:
 	d. Stores the feature matrices into /same_folder/dense_matrix.db
 	e. Pickles the user_mapping to find the similar users
 	
-3. utilities.py: Helper Functions for pre processing the data and loading the database in main.py
+3. webapp.py: The files which creates and runs the API to display the similar user details.
 4. model_1.py: creates the dense feature matrices from user-data in main.
-5. webapp.py: The files which creates and runs the API to display the similar user details.
+5. utilities.py: Helper Functions for pre processing the data and loading the database in main.py
 6. (4 input CSVs)
 7. Templates Folder: Which contains the home.html and pagination.html for the RESTful API
 
