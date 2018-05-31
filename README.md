@@ -1,5 +1,5 @@
 # Plural_Sight
-Solutions for Data Challenge
+Solutions for Data Challenge. [Written explanations for the questions addressed along with the challenge and the approached are explained in the file Approaches Explained and Written Solutions.pdf and it is uploaded in this repo]
 
 
 Instructions to run the code:
