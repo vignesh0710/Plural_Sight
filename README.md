@@ -1,8 +1,18 @@
 # Plural_Sight
-Solutions for Data Challenge. [Written explanations for the questions addressed along with the challenge and the approached are explained in the file Approaches Explained and Written Solutions.pdf and it is uploaded in this repo]
+# Solutions for Data Challenge. [Written explanations for the questions addressed along with the challenge and the approached are explained in the file Approaches Explained and Written Solutions.pdf and it is uploaded in this repo]
+
+## Modules required:
+
+1. Python
+2. Pandas
+3. Numpy
+4. Scikit-learn 
+5. pickle
+6. Flask 
+7. Scipy
 
 
-Instructions to run the code:
+## Instructions to run the code:
 
 1. Download the folder from Github and unzip which will create Plural_sight-master
 2. Open this folder -> Unzip the FOLDER data_files_ml_engineer.zip and FILE plural_sight.db.zip. The following image will be the folder structure for Plural_sight-master after these 2 steps
@@ -15,9 +25,9 @@ Instructions to run the code:
 
 4. There are 2 ways to run the API
 
-First Method:
+## First Method:
 
-Note: Please use this method to test the results
+### Note: Please use this method to test the results
 
 1. Run the file webapp.py in a editor with the working directory location at "path//data_files_ml_engineer",ex:
 [wdir='/Users/vigneshsureshbabu/Downloads/pluralsight_ml_exercise/data_files_ml_engineer']
@@ -38,10 +48,9 @@ Note: Please use this method to test the results
 
 5. Please scroll down to check the similar users with the 3 diffrent feature configurations mentioned.
 
-Second Method:
+## Second Method:
 
-Note: Please use this in if and only if the full pipeline has to be tested, from accessing the csv to displaying the results.
-Method 1 mentioned above is preferred
+### Note: Please use this in if and only if the full pipeline has to be tested, from accessing the csv to displaying the results. Method 1 mentioned above is preferred
 
 1. Run the file main.py in a editor, to 
   	a. Process the CSV and load into the DB through automatically recognizing the data type of the variables
@@ -52,9 +61,12 @@ Method 1 mentioned above is preferred
 2. Then follow steps 1 - 5 mentioned in the 'First' way above to run the code
 	
 
+## Files Description in Folder: Plural_sight-master:
 
+Data_Files_ML_Engineer - FOLDER with the code, support_functionalities and input. 
+6 pickle files to export user mapping
 
-Files Description in Data_Files_ML_Engineer:
+## Files Description in Folder: Data_Files_ML_Engineer:
 
 
 1. __pycache__ : Folder for python functionality
