@@ -16,8 +16,8 @@
 
 ## Instructions to run the code:
 
-1. Download the folder from Github and unzip which will create Plural_sight-master
-2. Open this folder -> Unzip the FOLDER data_files_ml_engineer.zip and FILE plural_sight.db.zip. The following image will be the folder structure for Plural_sight-master after these 2 steps
+1. Download the folder from Github and unzip which will create Plural_sight-master folder
+2. In this Plural_sight-master folder -> Unzip the FOLDER data_files_ml_engineer.zip and FILE plural_sight.db.zip. The following image will be the folder structure for Plural_sight-master after these 2 steps
 
 <img width="983" alt="screen shot 2018-05-31 at 6 03 00 pm" src="https://user-images.githubusercontent.com/19801399/40810786-e47888d8-64fc-11e8-949b-ffbe7196c40a.png">
 
