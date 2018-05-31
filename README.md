@@ -1,5 +1,7 @@
 # Plural_Sight
-# Solutions for Data Challenge. [Written explanations for the questions addressed along with the challenge and the approached are explained in the file Approaches Explained and Written Solutions.pdf and it is uploaded in this repo]
+# Solutions for Data Challenge. 
+
+## [Written explanations for the questions addressed along with the challenge and the approached are explained in the file Approaches Explained and Written Solutions.pdf and it is uploaded in this repo]
 
 ## Modules required:
 
@@ -64,6 +66,7 @@
 ## Files Description in Folder: Plural_sight-master:
 
 Data_Files_ML_Engineer - FOLDER with the code, support_functionalities and input. 
+
 6 pickle files to export user mapping
 
 ## Files Description in Folder: Data_Files_ML_Engineer:
