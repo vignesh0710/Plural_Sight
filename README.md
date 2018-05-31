@@ -9,7 +9,8 @@ Instructions to run the code:
 3. In the same folder (Plural_sight-master) unzip the file plural_sight.db.zip and transfer the file to the 
    unzipped data_files_ml_engineer folder.
    
-4. 
+4. <img width="983" alt="screen shot 2018-05-31 at 6 03 00 pm" src="https://user-images.githubusercontent.com/19801399/40810786-e47888d8-64fc-11e8-949b-ffbe7196c40a.png">
+
 
 
 
