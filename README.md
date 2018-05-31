@@ -12,6 +12,7 @@
 5. pickle
 6. Flask 
 7. Scipy
+8. SQLite
 
 
 ## Instructions to run the code:
@@ -84,7 +85,9 @@ Data_Files_ML_Engineer - FOLDER with the code, support_functionalities and input
 3. webapp.py: The files which creates and runs the API to display the similar user details.
 4. model_1.py: creates the dense feature matrices from user-data in main.
 5. utilities.py: Helper Functions for pre processing the data and loading the database in main.py
-6. (4 input CSVs)
-7. Templates Folder: Which contains the home.html and pagination.html for the RESTful API
+6. plural_sight.db - SQLite DB file for storing the user data
+7. dense_matrix.db - SQLite DB file for storing the dense feature matrices to find similar users.
+8. (4 input CSVs)
+9. Templates Folder: Which contains the home.html and pagination.html for the RESTful API
 
 
