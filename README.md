@@ -2,6 +2,16 @@
 Solutions for Data Challenge
 
 
+Instructions to run the code:
+
+1. Download the folder from Github and unzip which will create Plural_sight-master
+2. Open this folder and Unzip data_files_ml_engineer.zip
+3. In the same folder (Plural_sight-master) unzip the file plural_sight.db.zip and transfer the file to the 
+   unzipped data_files_ml_engineer folder.
+   
+4. 
+
+
 
 Files Description in Data_Files_ML_Engineer:
 
